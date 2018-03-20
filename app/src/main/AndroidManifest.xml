@@ -107,7 +107,7 @@
             android:name=".utils.gcm.RegistrationIntentService"
             android:exported="false"></service>
 
-        <activity android:name=".ui.activities.AddBenficiary"></activity>
+        <activity android:name=".ui.activities.AddBeneficiary"></activity>
     </application>
 
 </manifest>

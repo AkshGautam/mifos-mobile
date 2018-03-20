@@ -366,7 +366,6 @@ public class HomeActivity extends BaseActivity implements UserDetailsView, Navig
      */
     @Override
     public void onBackPressed() {
-
         if (drawerLayout.isDrawerOpen(GravityCompat.START)) {
             drawerLayout.closeDrawer(GravityCompat.START);
             return;
